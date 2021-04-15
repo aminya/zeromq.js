@@ -3,7 +3,6 @@
   "version": "5.2.10",
   "description": "ZeroMQ for node.js",
   "main": "index",
-  "gypfile": true,
   "repository": {
     "type": "git",
     "url": "https://github.com/zeromq/zeromq.js.git"
