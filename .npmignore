@@ -4,3 +4,4 @@ examples
 test
 .github
 windows/lib
+zmq
