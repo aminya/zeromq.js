@@ -1,6 +1,6 @@
 {
   "name": "@aminya/zeromq",
-  "version": "5.2.13",
+  "version": "5.2.14",
   "description": "ZeroMQ for node.js",
   "main": "index",
   "repository": {
